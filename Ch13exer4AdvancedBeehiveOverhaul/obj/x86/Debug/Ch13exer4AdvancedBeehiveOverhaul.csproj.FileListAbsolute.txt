@@ -1,0 +1,10 @@
+c:\users\andy\documents\visual studio 2010\Projects\Ch13exer4AdvancedBeehiveOverhaul\Ch13exer4AdvancedBeehiveOverhaul\obj\x86\Debug\Ch13exer4AdvancedBeehiveOverhaul.FieldForm.resources
+c:\users\andy\documents\visual studio 2010\Projects\Ch13exer4AdvancedBeehiveOverhaul\Ch13exer4AdvancedBeehiveOverhaul\obj\x86\Debug\Ch13exer4AdvancedBeehiveOverhaul.Form1.resources
+c:\users\andy\documents\visual studio 2010\Projects\Ch13exer4AdvancedBeehiveOverhaul\Ch13exer4AdvancedBeehiveOverhaul\obj\x86\Debug\Ch13exer4AdvancedBeehiveOverhaul.HiveForm.resources
+c:\users\andy\documents\visual studio 2010\Projects\Ch13exer4AdvancedBeehiveOverhaul\Ch13exer4AdvancedBeehiveOverhaul\obj\x86\Debug\Ch13exer4AdvancedBeehiveOverhaul.Properties.Resources.resources
+c:\users\andy\documents\visual studio 2010\Projects\Ch13exer4AdvancedBeehiveOverhaul\Ch13exer4AdvancedBeehiveOverhaul\bin\Debug\Ch13exer4AdvancedBeehiveOverhaul.exe
+c:\users\andy\documents\visual studio 2010\Projects\Ch13exer4AdvancedBeehiveOverhaul\Ch13exer4AdvancedBeehiveOverhaul\bin\Debug\Ch13exer4AdvancedBeehiveOverhaul.pdb
+c:\users\andy\documents\visual studio 2010\Projects\Ch13exer4AdvancedBeehiveOverhaul\Ch13exer4AdvancedBeehiveOverhaul\obj\x86\Debug\Ch13exer4AdvancedBeehiveOverhaul.exe
+c:\users\andy\documents\visual studio 2010\Projects\Ch13exer4AdvancedBeehiveOverhaul\Ch13exer4AdvancedBeehiveOverhaul\obj\x86\Debug\Ch13exer4AdvancedBeehiveOverhaul.pdb
+C:\Users\Andy\documents\visual studio 2010\Projects\Ch13exer4AdvancedBeehiveOverhaul\Ch13exer4AdvancedBeehiveOverhaul\obj\x86\Debug\Ch13exer4AdvancedBeehiveOverhaul.csprojResolveAssemblyReference.cache
+C:\Users\Andy\documents\visual studio 2010\Projects\Ch13exer4AdvancedBeehiveOverhaul\Ch13exer4AdvancedBeehiveOverhaul\obj\x86\Debug\Ch13exer4AdvancedBeehiveOverhaul.csproj.GenerateResource.Cache
